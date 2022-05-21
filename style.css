@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+table td{
+    border: 1px solid black;
+}
+.dd{
+    margin-bottom: 50px;
+}
+.dddd{
+    margin-bottom: 25px;
+}
